@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Bugra Akin</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate frontend developer from Türkiye</h3>
 <img align="right" alt="Coding" width="400" src=https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e479dq1evs99dj3qfqwrleyrp9jmw39iropxz4wkgun&ep=v1_gifs_search&rid=giphy.gif&ct=g>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugrakin&label=Profile%20views&color=0e75b6&style=flat" alt="bugrakin" /> </p>
