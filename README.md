@@ -5,7 +5,7 @@
 <div align="center">
    <h3>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-   Bugra Akin | 💻 Android Developer | 🛸 Karlsruhe, DE  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   Bugra Akin | 💻 Full-Stack Engineer | 🛸 Karlsruhe, DE  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    </h3>
    <div>
    <img src="https://wakatime.com/badge/user/018b2901-f072-4e2a-a5dc-25f1f0744cd2.svg" />
